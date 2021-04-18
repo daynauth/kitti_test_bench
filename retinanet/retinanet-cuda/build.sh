@@ -1,0 +1,1 @@
+docker build -t retinanet-cuda retinanet-examples/
